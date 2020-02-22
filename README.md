@@ -2,7 +2,7 @@
 
 Yemekhane_Projesi
 
-# Katılımcılar:
+# Katılımcı Olmayanlar:
  Erkam Yaman
  Hande Seyfeli
  İrem Alan
